@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Automatic_Switching_Program_under_Multi_Servers_[ASPS]_L7Auto_Switching(Duplexer)",
+  "description": "L7Auto_Switching(Duplexing) Program, the program is intended to be used for identical servers with two different IPs\nCoded by LEE JUNSUNG",
+  "version": "2.0",
+  "action": {
+    "default_title": "Automatic_Switching_Program_under_Multi_Servers_[ASPS]_L7Auto_Switching(Duplexer) Program",
+    "default_popup": "popup.html"
+  },
+  "host_permissions":["<all_urls>"],
+  "permissions": [
+    "tabs",
+    "windows",
+    "activeTab",
+    "storage",
+    "offscreen",
+    "notifications",
+    "webNavigation",
+    "declarativeNetRequest"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "matches" : ["http://*/*","https://*/*"]
+  },
+  "icons": {
+    "16": "kma.png",
+    "32": "kma.png",
+    "48": "kma.png",
+    "128": "kma.png"
+  }
+}
