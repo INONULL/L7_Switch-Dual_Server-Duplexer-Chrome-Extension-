@@ -19,8 +19,12 @@
 - If server2 down -> Redirect -> server1
 - If Both Servers or Modules are Down (Alert will popup) <- goes off when one of them back on
 - If server1 or 2 Down and User connects to one that is down -> force redirect to the alive server
-- If User out of the url or IP -> [Extension (Standby)] 
-  
+- If User out of the url or IP -> [Extension (Standby)]
+- If User has opened multiple target url and not knowing which tab is being monitored, click Extesnion Icon and use 'Find_TAB' 
+# How to install <br />
+![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/How_To_Install.png?raw=true) <br />
+
+
 # Images
 
 # Extension-Popup-Not-On <br />
