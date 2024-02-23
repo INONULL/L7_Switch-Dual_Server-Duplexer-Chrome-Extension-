@@ -20,7 +20,7 @@
 - If Both Servers or Modules are Down (Alert will popup) <- goes off when one of them back on
 - If server1 or 2 Down and User connects to one that is down -> force redirect to the alive server
 - If User out of the url or IP -> [Extension (Standby)]
-- If User has opened multiple target url and not knowing which tab is being monitored, click Extesnion Icon and use 'Find_TAB' 
+- If User has opened multiple 'target IP or url's and not knowing which tab is being monitored, click Extesnion Icon and use 'Find_TAB'
 # How to install <br />
 - Developer mode -> ON  [Top right Corner]
 - Click Load unpacked
