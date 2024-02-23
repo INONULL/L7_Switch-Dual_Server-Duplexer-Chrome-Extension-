@@ -7,7 +7,7 @@
 # Define values with your own: Primary, Secondary, kma_mon_end_point, target_end_point
 - Primary = (Primary IP or url) <= change it with your value <br />
 - Secondary = (Secondary IP or url) <= change it with your value <br />
-- kma_mon_end_point = (the redirect IP or url tartget) <= change it with your value  <br />
+- kma_mon_end_point = (the redirect IP or url target's endpoint) <= change it with your value  <br />
 - target_end_point = (the monitoring target element) <= change it with your value
 
 # Things to change with your files
