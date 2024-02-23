@@ -22,6 +22,9 @@
 - If User out of the url or IP -> [Extension (Standby)]
 - If User has opened multiple target url and not knowing which tab is being monitored, click Extesnion Icon and use 'Find_TAB' 
 # How to install <br />
+- Developer mode -> ON  [Top right Corner]
+- Click Load unpacked
+- GOTO the source folder, then click 'Ok'
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/How_To_Install.png?raw=true) <br />
 
 
