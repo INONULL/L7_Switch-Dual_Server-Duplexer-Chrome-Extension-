@@ -21,16 +21,17 @@ target_end_point = (the monitoring target element) <= change it with your value
 - If server1 or 2 Down and User connects to one that is down -> force redirect to the alive server
 - If User out of the url or IP -> [Extension (Standby)] 
   
-# Images Running
-Extension-Popup-Not-On
+# Images
+
+# Extension-Popup-Not-On <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Extension_Popup_not_active.png?raw=true) <br />
-Extension-Popup-On
+# Extension-Popup-On <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Extension_Popup_active.png?raw=true) <br />
-Server1 is Down -> Switched to Server2
+# Server1 is Down -> Switched to Server2 <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Server1_Down_Switched_To_Server2.png?raw=true) <br />
-Modules are down!
+# Modules are down! <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Modules_Down.png?raw=true) <br />
-Servers are down!
+# Servers are down! <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Servers_Down.png?raw=true) <br />
-Devtools log
+# Devtools log <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Log_Example.png?raw=true)
