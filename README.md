@@ -3,12 +3,12 @@
 # <Change Variables and Files for your needs>
 
 # How To Set
-Open background.js
+Open background.js__
 from line 16-19
-<define values with your own: Primary, Secondary, kma_mon_end_point, target_end_point>
-Primary = (Primary IP or url) <= change it with your value
-Secondart = (Secondary IP or url) <= change it with your value
-kma_mon_end_point = (the redirect IP or url tartget) <= change it with your value
+# <define values with your own: Primary, Secondary, kma_mon_end_point, target_end_point>
+Primary = (Primary IP or url) <= change it with your value__
+Secondart = (Secondary IP or url) <= change it with your value__
+kma_mon_end_point = (the redirect IP or url tartget) <= change it with your value__
 target_end_point = (the monitoring target element) <= change it with your value
 
 # Things to change with your files
