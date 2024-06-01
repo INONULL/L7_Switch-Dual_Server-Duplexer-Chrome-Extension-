@@ -34,7 +34,7 @@
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Extension_Popup_not_active.png?raw=true) <br />
 # Extension-Popup-On <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Extension_Popup_active.png?raw=true) <br />
-# Server1 is Down -> Switched to Server2 <br />
+# Server1 is Down -> Switches to Server2 <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Server1_Down_Switched_To_Server2.png?raw=true) <br />
 # Modules are down! <br />
 ![alt text](https://github.com/INONULL/L7_Switch-Dual_Server-Duplexer-Chrome-Extension-/blob/main/How_It_Works_Images/Modules_Down.png?raw=true) <br />
